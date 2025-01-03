@@ -1,4 +1,4 @@
-package BYJAVA;
+package JAVA;
 import java.util.Scanner;
 
 public class evenodd {
