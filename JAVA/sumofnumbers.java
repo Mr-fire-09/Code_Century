@@ -1,6 +1,6 @@
 package JAVA;
 
-import java.util.Scanner ;
+import java.util.Scanner;
 
 public class sumofnumbers {
 
@@ -10,18 +10,14 @@ public class sumofnumbers {
         System.out.println("Enter  a  Number : ");
         int num = sc.nextInt();
 
-
         int sum = 0;
 
-        for(int i = 0; i <= num; i++){
+        for (int i = 0; i <= num; i++) {
             sum = sum + i;
 
         }
 
-        System.out.println("Sum of Number is :  " + sum );
-
-
-
+        System.out.println("Sum of Number is :  " + sum);
 
     }
 }
