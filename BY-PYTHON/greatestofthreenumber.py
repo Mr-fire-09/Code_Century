@@ -8,4 +8,4 @@ if num1 > num2 and num1 > num3:
 elif num2 > num3 and num2 > num3:
     print("NUmber 2 is greater then all numbers")
 else:
-    print("Number Three is  greater then all numbers")
+    print("Number Three is  greater then all numbers") 
