@@ -5,5 +5,5 @@ if (num > 0 ):
     
 elif (num < 0):
     print("Number is negative ")
-    
+     
     
