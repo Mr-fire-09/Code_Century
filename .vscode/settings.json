@@ -1,5 +1,6 @@
 {
     "cSpell.words": [
         "Evenoddprogram"
-    ]
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
